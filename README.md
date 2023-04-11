@@ -2,41 +2,41 @@
 
 ### Progress
 
-**_Lecture 1_**
+**_Lecture 1, Intro_**
 
 - [ ] [Prep, read MapReduce](http://nil.csail.mit.edu/6.824/2021/papers/mapreduce.pdf)
 - [ ] [Intro](http://nil.csail.mit.edu/6.824/2021/notes/l01.txt)
 - [ ] [Lecture](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PL4YhK0pT0ZhXTRSAYHAgBcJkhlM2hlhw3)
 
-**_Lecture 2_**
+**_Lecture 2, RPC and Threads_**
 - [ ] [Lecture Text](http://nil.csail.mit.edu/6.824/2021/notes/l-rpc.txt)
 - [ ] [Lecture Video](https://www.youtube.com/watch?v=gA4YXUJX7t8&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB&index=3)
 - [ ] [Lecture, crawler.go](http://nil.csail.mit.edu/6.824/2021/notes/crawler.go)
 - [ ] [Lecture, kv.go](http://nil.csail.mit.edu/6.824/2021/notes/crawler.go)
 
-**_Lecture 3_**
+**_Lecture 3, GFS Google File System_**
 
 - [ ] [Prep, read GFS](http://nil.csail.mit.edu/6.824/2021/papers/gfs.pdf)
 - [ ] [Lecture Text](http://nil.csail.mit.edu/6.824/2021/notes/l-gfs.txt)
 - [ ] [Lecture Video](https://youtu.be/EpIgvowZr00)
 - [ ] [Lab 2 raft](http://nil.csail.mit.edu/6.824/2021/labs/lab-raft.html)
 
-**_Lecture 4_**
+**_Lecture 4, Primary-backup Replication_**
 
 - [ ] [Prep, read Fault Tolerant Virtual Machines](http://nil.csail.mit.edu/6.824/2021/papers/vm-ft.pdf)
 - [ ] [Lecture Video](https://youtu.be/M_teob23ZzY)
 - [ ] [Lecture Notes](http://nil.csail.mit.edu/6.824/2021/notes/l-vm-ft.txt)
 - [ ] [Lab, MapReduce](http://nil.csail.mit.edu/6.824/2021/labs/lab-mr.html)
 
-**_Lecture 5_**
+**_Lecture 5, Go, Threads, Raft_**
 
-- [ ] [Lecture Video](https://youtu.be/UzzcUS2OHqo)
 - [ ] [Prep, read Raft til section 5](http://nil.csail.mit.edu/6.824/2021/papers/raft-extended.pdf)
+- [ ] [Lecture Video](https://youtu.be/UzzcUS2OHqo)
 
 **_Lecture 6, Fault Tolerance: Raft_**
 
-- [ ] [Lecture Video](https://youtu.be/64Zp3tzNbpE)
 - [ ] [Prep, read Raft section 7](http://nil.csail.mit.edu/6.824/2021/papers/raft-extended.pdf)
+- [ ] [Lecture Video](https://youtu.be/64Zp3tzNbpE)
 - [ ] [Lab, 2B](http://nil.csail.mit.edu/6.824/2021/labs/lab-raft.html)
 
 **_Lecture 7, Zookeeper_**
@@ -64,35 +64,34 @@
 
 **_Lecture 10, cache consistency frangipani_**
 
+- [ ] [Prep, frangipani](http://nil.csail.mit.edu/6.824/2021/papers/thekkath-frangipani.pdf)
 - [ ] [Lecture Video](https://youtu.be/-pKNCjUhPjQ)
 - [ ] [Lecture Notes](http://nil.csail.mit.edu/6.824/2021/notes/l-cr.txt)
-- [ ] [Prep, frangipani](http://nil.csail.mit.edu/6.824/2021/papers/thekkath-frangipani.pdf)
 
 **_Lecture 11, distibuted transactions_**
 
+- [ ] [Prep, principles of a computer system design 9.1.5, 9.1.6, 9.5.2, 9.5.3](https://ocw.mit.edu/courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/pages/online-textbook/)
 - [ ] [Lecture Video](https://youtu.be/aDp99WDIM_4)
 - [ ] [Lecture Notes](http://nil.csail.mit.edu/6.824/2021/notes/l-2pc.txt)
-- [ ] [Prep, principles of a computer system design 9.1.5, 9.1.6, 9.5.2, 9.5.3](https://ocw.mit.edu/courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/pages/online-textbook/)
 - [ ] [Lab, 3A](http://nil.csail.mit.edu/6.824/2021/labs/lab-kvraft.html)
 
 **_Lecture 12, spanner_**
 
-- [ ] [Lecture Video](https://youtu.be/4eW5SWBi7vs)
 - [ ] [Prep, spanner](http://nil.csail.mit.edu/6.824/2021/papers/spanner.pdf)
+- [ ] [Lecture Video](https://youtu.be/4eW5SWBi7vs)
 - [ ] [Lab, 3B](http://nil.csail.mit.edu/6.824/2021/labs/lab-kvraft.html)
 - [ ] [Lab, 4A](http://nil.csail.mit.edu/6.824/2021/labs/lab-shard.html)
 
 **_Lecture 15, optimistic concurrenct control_**
 
+- [ ] [Prep, FaRM](http://nil.csail.mit.edu/6.824/2021/papers/farm-2015.pdf)
 - [ ] [Lecture Video](https://youtu.be/Cw6Nj2evjSs)
 - [ ] [Lecture Notes](http://nil.csail.mit.edu/6.824/2021/notes/l-farm.txt)
-- [ ] [Prep, FaRM](http://nil.csail.mit.edu/6.824/2021/papers/farm-2015.pdf)
 
 **_Lecture 16, big data spark_**
 
 - [ ] [Lecture Video](https://youtu.be/mzIoSW-cInA)
 - [ ] [Lecture Notes](http://nil.csail.mit.edu/6.824/2021/notes/l-spark.txt)
-- [ ]
 
 **_Lecture 17, cache consistency memcached at facebook_**
 
@@ -106,19 +105,19 @@
 
 **_Lecture 19, fork consistency certificate transparency__**
 
+- [ ] [Prep, SUNDR](http://nil.csail.mit.edu/6.824/2021/papers/li-sundr.pdf)
 - [ ] [Lecture Video](https://youtu.be/UKdLJ7-0iFM)
 - [ ] [Lecture Notes](http://nil.csail.mit.edu/6.824/2021/notes/l-sundr.txt)
-- [ ] [Prep, SUNDR](http://nil.csail.mit.edu/6.824/2021/papers/li-sundr.pdf)
 
 **_Lecture 20, bitcoin_**
 
+- [ ] [Prep, bitcoin](http://nil.csail.mit.edu/6.824/2021/papers/bitcoin.pdf)
 - [ ] [Lecture Video](https://youtu.be/K_euhRou98Y)
 - [ ] [Lecture Notes](http://nil.csail.mit.edu/6.824/2021/notes/l-bitcoin.txt)
-- [ ] [Prep, bitcoin](http://nil.csail.mit.edu/6.824/2021/papers/bitcoin.pdf)
 - [ ] [Lab, 4B](http://nil.csail.mit.edu/6.824/2021/labs/lab-shard.html)
 
 **_Lecture 21, blockstack_**
 
+- [ ] [Prep, blockstack](http://nil.csail.mit.edu/6.824/2021/papers/blockstack-atc16.pdf)
 - [ ] [Lecture Video](https://youtu.be/XvXK_vZ0BNw)
 - [ ] [Lecture Notes](http://nil.csail.mit.edu/6.824/2021/notes/l-blockstack.txt)
-- [ ] [Prep, blockstack](http://nil.csail.mit.edu/6.824/2021/papers/blockstack-atc16.pdf)
