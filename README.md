@@ -5,8 +5,8 @@
 **_Lecture 1, Intro_**
 
 - [ ] [Prep, read MapReduce](http://nil.csail.mit.edu/6.824/2021/papers/mapreduce.pdf)
-- [ ] [Intro](http://nil.csail.mit.edu/6.824/2021/notes/l01.txt)
-- [ ] [Lecture](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PL4YhK0pT0ZhXTRSAYHAgBcJkhlM2hlhw3)
+- [x] [Intro](http://nil.csail.mit.edu/6.824/2021/notes/l01.txt)
+- [x] [Lecture](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PL4YhK0pT0ZhXTRSAYHAgBcJkhlM2hlhw3)
 
 **_Lecture 2, RPC and Threads_**
 - [ ] [Lecture Text](http://nil.csail.mit.edu/6.824/2021/notes/l-rpc.txt)
