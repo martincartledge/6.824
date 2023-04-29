@@ -4,7 +4,7 @@
 
 **_Lecture 1, Intro_**
 
-- [ ] [Prep, read MapReduce](http://nil.csail.mit.edu/6.824/2021/papers/mapreduce.pdf)
+- [x] [Prep, read MapReduce](http://nil.csail.mit.edu/6.824/2021/papers/mapreduce.pdf)
 - [x] [Intro](http://nil.csail.mit.edu/6.824/2021/notes/l01.txt)
 - [x] [Lecture](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PL4YhK0pT0ZhXTRSAYHAgBcJkhlM2hlhw3)
 
